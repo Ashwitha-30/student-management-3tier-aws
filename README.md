@@ -13,7 +13,7 @@ This project is a production-grade **student management system** deployed using 
 - **NAT Gateway**, **Route Tables**, **Security Groups**
 - **ACM SSL** + **Route53** + **GoDaddy DNS**
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram]("C:\Users\PC\Desktop\Screenshot 2025-07-11 214135.png")
 
 ## 💻 Tech Stack
 
